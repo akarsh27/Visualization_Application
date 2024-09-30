@@ -1,0 +1,2939 @@
+{
+    "Cason Gross": [],
+    "Tristen Valdez": [],
+    "Travis Grant": [],
+    "Allie Barnes": [],
+    "Lexie Mckinney": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "01/20/2023"
+        }
+    ],
+    "Gretchen Boyer": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "08/10/2023"
+        }
+    ],
+    "Denise Allen": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "06/27/2023"
+        },
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "01/29/2023"
+        }
+    ],
+    "Mila Baird": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "06/16/2023"
+        }
+    ],
+    "Layton Lamb": [],
+    "Arianna Esparza": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "05/02/2023"
+        }
+    ],
+    "Walker Wall": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "06/09/2023"
+        }
+    ],
+    "Giovanny Gonzales": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "02/20/2023"
+        }
+    ],
+    "Isis Curtis": [],
+    "Marquis Forbes": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "06/19/2023"
+        }
+    ],
+    "Jeffery Kelly": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "05/22/2023"
+        }
+    ],
+    "Emily Spence": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "12/22/2022"
+        }
+    ],
+    "Skylar Payne": [],
+    "Ace Beltran": [],
+    "Anabelle Braun": [],
+    "Tiana Barron": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "04/04/2023"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "03/12/2023"
+        }
+    ],
+    "Kamryn Patton": [],
+    "Dalia King": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "02/28/2023"
+        }
+    ],
+    "Barbara Mclaughlin": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "02/18/2023"
+        }
+    ],
+    "Helena Fernandez": [],
+    "Talon Beasley": [],
+    "Cloe Williamson": [],
+    "Reina Proctor": [],
+    "Nayeli Ortiz": [],
+    "Rayan Curry": [],
+    "Jasmine Graham": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "12/25/2022"
+        }
+    ],
+    "Orlando Moss": [],
+    "Sam Buchanan": [],
+    "Carl Riley": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "01/30/2023"
+        }
+    ],
+    "Bethany Ibarra": [],
+    "Zion Werner": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "01/21/2023"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "06/02/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "12/11/2022"
+        }
+    ],
+    "Gillian Romero": [],
+    "Alani Gould": [],
+    "Ari Jimenez": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "05/18/2023"
+        }
+    ],
+    "Isla Watts": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "01/25/2023"
+        }
+    ],
+    "Marcus Tanner": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "06/14/2023"
+        }
+    ],
+    "Shane Landry": [],
+    "Nathan Mcdowell": [],
+    "Rubi Klein": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "03/24/2023"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "09/16/2023"
+        }
+    ],
+    "Marshall Hutchinson": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "07/08/2023"
+        }
+    ],
+    "Leticia Johnson": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "06/01/2023"
+        }
+    ],
+    "Ellie Fuentes": [],
+    "Lexie Ho": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "02/05/2023"
+        }
+    ],
+    "Mariah Patel": [],
+    "Brisa House": [],
+    "Jamison Lawson": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "03/17/2023"
+        }
+    ],
+    "Zavier Maldonado": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "08/09/2023"
+        }
+    ],
+    "Brooke Benson": [],
+    "Enrique Burke": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "01/23/2023"
+        }
+    ],
+    "Giana Alexander": [],
+    "Emmett Sanchez": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "07/12/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "05/28/2023"
+        }
+    ],
+    "Vicente Alvarez": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "05/15/2023"
+        }
+    ],
+    "Garrett Mora": [],
+    "Adriana Figueroa": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "06/12/2023"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "06/07/2023"
+        }
+    ],
+    "Ainsley Drake": [],
+    "Lola Townsend": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "01/01/2023"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "07/09/2023"
+        }
+    ],
+    "Alberto Everett": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "09/12/2023"
+        }
+    ],
+    "Chaim Bates": [],
+    "Seth Mendez": [],
+    "Justice Quinn": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "03/14/2023"
+        }
+    ],
+    "Cameron Moody": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "09/20/2023"
+        }
+    ],
+    "Raven Perry": [],
+    "Michaela Spears": [],
+    "Justine Porter": [],
+    "Maren Garrett": [],
+    "Annabella Jacobson": [],
+    "Rolando Schmitt": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "04/18/2023"
+        },
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "03/15/2023"
+        }
+    ],
+    "Colby Trevino": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "08/02/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expiring soon",
+            "expires_on": "10/19/2023"
+        }
+    ],
+    "Matteo Rios": [],
+    "Elianna Becker": [],
+    "Jolie Diaz": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "09/25/2023"
+        }
+    ],
+    "Kyler Cardenas": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/16/2023"
+        }
+    ],
+    "Ally Mata": [],
+    "Liliana Sanders": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "03/19/2023"
+        }
+    ],
+    "Sage Rosales": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expiring soon",
+            "expires_on": "10/31/2023"
+        }
+    ],
+    "Teagan French": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "08/21/2023"
+        }
+    ],
+    "Lexi Jensen": [],
+    "Briley Faulkner": [],
+    "Kristin Gillespie": [],
+    "Reagan May": [],
+    "Frankie Dennis": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "07/28/2023"
+        }
+    ],
+    "Noe Willis": [],
+    "Gisselle Hooper": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "05/04/2023"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "04/07/2023"
+        },
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "04/27/2023"
+        }
+    ],
+    "Vance Stout": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "07/10/2023"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "01/01/2023"
+        }
+    ],
+    "Nyla Terrell": [],
+    "Deacon Hanson": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "08/16/2023"
+        }
+    ],
+    "Payton Reyes": [],
+    "Tiara Waters": [
+        {
+            "training": "Medical Records",
+            "status": "expiring soon",
+            "expires_on": "10/01/2023"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "06/29/2023"
+        }
+    ],
+    "Jeramiah Rogers": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expiring soon",
+            "expires_on": "10/09/2023"
+        }
+    ],
+    "Fernanda Green": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "07/27/2023"
+        }
+    ],
+    "Wayne Howell": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "06/10/2023"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "12/13/2022"
+        }
+    ],
+    "Marcel Rivera": [],
+    "Sonia Bowman": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "01/18/2023"
+        }
+    ],
+    "Makaila Hood": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "01/30/2023"
+        }
+    ],
+    "Rolando Shelton": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "03/06/2023"
+        }
+    ],
+    "Claire Montes": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "12/11/2022"
+        }
+    ],
+    "Skyla Lang": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "01/23/2023"
+        }
+    ],
+    "Alexandria Dudley": [],
+    "Gerald Parsons": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "03/21/2023"
+        }
+    ],
+    "Adan Lowery": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "03/16/2023"
+        }
+    ],
+    "Barrett Hicks": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expiring soon",
+            "expires_on": "10/24/2023"
+        }
+    ],
+    "Davion Pena": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "02/23/2023"
+        }
+    ],
+    "Kyla Walker": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "06/22/2023"
+        }
+    ],
+    "Brennen Fletcher": [],
+    "Aliya Chan": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "02/16/2023"
+        }
+    ],
+    "Lukas Riggs": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "06/07/2023"
+        }
+    ],
+    "Maggie Vincent": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "08/20/2023"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expiring soon",
+            "expires_on": "10/09/2023"
+        }
+    ],
+    "Molly Singh": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "05/14/2023"
+        }
+    ],
+    "Robert Daugherty": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "03/01/2023"
+        }
+    ],
+    "Dawson Compton": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "05/03/2023"
+        }
+    ],
+    "Aubree Gutierrez": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "08/18/2023"
+        }
+    ],
+    "Clinton Mckenzie": [],
+    "Abril Castro": [],
+    "Reid Arias": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "09/10/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "09/18/2023"
+        }
+    ],
+    "Norah Villegas": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "01/09/2023"
+        }
+    ],
+    "Rory Leonard": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "01/06/2023"
+        },
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "04/08/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "03/13/2023"
+        }
+    ],
+    "Kenyon Estes": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "08/16/2023"
+        }
+    ],
+    "Finley Key": [],
+    "Eduardo Hays": [],
+    "Trinity Anthony": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "06/08/2023"
+        }
+    ],
+    "Raquel Dunn": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "09/15/2023"
+        }
+    ],
+    "Dayami Conway": [],
+    "Heather Pollard": [],
+    "Dania Parrish": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "12/09/2022"
+        }
+    ],
+    "Emily Mcintosh": [],
+    "Raphael Stafford": [],
+    "Jerry Flynn": [],
+    "Helena Montes": [],
+    "Kennedi Wolf": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "03/09/2023"
+        },
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "09/11/2023"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "05/29/2023"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "02/08/2023"
+        }
+    ],
+    "Angela Collier": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "05/18/2023"
+        }
+    ],
+    "Clay Estrada": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "03/18/2023"
+        }
+    ],
+    "Madyson Singleton": [],
+    "Ramon Park": [],
+    "Kristina Gay": [
+        {
+            "training": "OHS Training",
+            "status": "expiring soon",
+            "expires_on": "10/21/2023"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "08/03/2023"
+        }
+    ],
+    "Ulises Glass": [],
+    "Andreas Hood": [],
+    "Diana Munoz": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expiring soon",
+            "expires_on": "10/03/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "06/13/2023"
+        }
+    ],
+    "Eden Nash": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "02/03/2023"
+        }
+    ],
+    "London Baldwin": [],
+    "Brennen Howell": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "12/27/2022"
+        }
+    ],
+    "Mara Roy": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "12/24/2022"
+        }
+    ],
+    "Aaliyah Cooper": [],
+    "Maxim Hawkins": [],
+    "Faith Adams": [],
+    "Matilda Alvarado": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "05/14/2023"
+        }
+    ],
+    "Daphne Hinton": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "08/13/2023"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expiring soon",
+            "expires_on": "10/02/2023"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "02/17/2023"
+        }
+    ],
+    "Haley Malone": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "03/08/2023"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expiring soon",
+            "expires_on": "10/09/2023"
+        }
+    ],
+    "Geovanni Hess": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "02/25/2023"
+        }
+    ],
+    "Teresa Esparza": [],
+    "Oswaldo Gould": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "05/25/2023"
+        }
+    ],
+    "Douglas Pitts": [],
+    "Mackenzie Parrish": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "02/15/2023"
+        }
+    ],
+    "Giana Lester": [],
+    "Kingston Gay": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "06/13/2023"
+        }
+    ],
+    "Jon Chapman": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "01/12/2023"
+        }
+    ],
+    "Elizabeth Esparza": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "06/17/2023"
+        }
+    ],
+    "Cordell Ritter": [],
+    "Makenzie Pollard": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "05/13/2023"
+        }
+    ],
+    "Reese Santos": [],
+    "Tristian Myers": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "04/17/2023"
+        }
+    ],
+    "Penelope Whitney": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "02/21/2023"
+        }
+    ],
+    "Zachery Sherman": [],
+    "Jazmine Haynes": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expiring soon",
+            "expires_on": "10/22/2023"
+        }
+    ],
+    "Alina Barry": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "12/28/2022"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "08/06/2023"
+        }
+    ],
+    "Niko Maldonado": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "03/13/2023"
+        }
+    ],
+    "Mathias Barker": [],
+    "Dean Stanton": [],
+    "Tyrone Sparks": [],
+    "Frances Fields": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "07/13/2023"
+        }
+    ],
+    "Damian Trujillo": [],
+    "Jamiya Oconnell": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "06/23/2023"
+        }
+    ],
+    "Lorenzo Delacruz": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "12/18/2022"
+        }
+    ],
+    "Saige Mcdonald": [],
+    "Baylee Pennington": [],
+    "Mina Hatfield": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "01/28/2023"
+        }
+    ],
+    "Giselle Oneal": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/09/2023"
+        }
+    ],
+    "Lucy Duarte": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "05/24/2023"
+        }
+    ],
+    "Brogan Dorsey": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "07/25/2023"
+        }
+    ],
+    "Melanie Pena": [],
+    "Regina Mckinney": [],
+    "Conner Warner": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired",
+            "expires_on": "03/11/2023"
+        }
+    ],
+    "Meredith Rios": [],
+    "Jeramiah Horton": [],
+    "Madeline Davila": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "12/15/2022"
+        },
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "09/02/2023"
+        }
+    ],
+    "Mckenna Sanders": [],
+    "Kaylen Stone": [],
+    "Harper Peterson": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "03/10/2023"
+        }
+    ],
+    "Sophie Rasmussen": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "01/02/2023"
+        }
+    ],
+    "Immanuel Combs": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "05/06/2023"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "02/19/2023"
+        }
+    ],
+    "Ahmad Tran": [],
+    "Tate Morgan": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "09/11/2023"
+        }
+    ],
+    "Frida Mosley": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "07/30/2023"
+        }
+    ],
+    "Frida Booth": [],
+    "Adyson Decker": [],
+    "Jovany Hughes": [],
+    "Nyasia Wilcox": [],
+    "Chaya Reynolds": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "02/02/2023"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expiring soon",
+            "expires_on": "10/04/2023"
+        }
+    ],
+    "Marie Boone": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "02/22/2023"
+        }
+    ],
+    "Lizbeth Cohen": [],
+    "Leah Donovan": [],
+    "Amya Herman": [],
+    "Regan Holloway": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "12/19/2022"
+        },
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "01/25/2023"
+        }
+    ],
+    "Angel Hill": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "07/25/2023"
+        },
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "07/02/2023"
+        }
+    ],
+    "Mohammed Michael": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "08/11/2023"
+        }
+    ],
+    "Milagros Montes": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "08/21/2023"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "02/19/2023"
+        }
+    ],
+    "Moises Hale": [],
+    "Haylee Carter": [],
+    "Max Andrade": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "04/19/2023"
+        }
+    ],
+    "Valentina Ellis": [],
+    "Jessica Mcdaniel": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "08/03/2023"
+        }
+    ],
+    "Harmony Lester": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "01/06/2023"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired",
+            "expires_on": "04/27/2023"
+        }
+    ],
+    "Gillian Valdez": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expiring soon",
+            "expires_on": "10/31/2023"
+        }
+    ],
+    "Dario Browning": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "02/24/2023"
+        }
+    ],
+    "Elvis Hester": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "05/14/2023"
+        }
+    ],
+    "Omar Carr": [],
+    "Tiffany Camacho": [],
+    "Gloria Mccarty": [],
+    "Santos Haas": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "05/28/2023"
+        }
+    ],
+    "Brylee Dunn": [],
+    "Melissa Flores": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "02/21/2023"
+        }
+    ],
+    "Dahlia Werner": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "02/03/2023"
+        }
+    ],
+    "Esmeralda Fischer": [],
+    "Emmalee Collins": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "03/10/2023"
+        }
+    ],
+    "Rebekah Patel": [],
+    "Cooper Roberson": [],
+    "Yael Strickland": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "07/04/2023"
+        }
+    ],
+    "Leila Mcbride": [],
+    "Ann Prince": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "03/08/2023"
+        }
+    ],
+    "Lucy Dunn": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "09/02/2023"
+        }
+    ],
+    "Jake Gillespie": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "09/02/2023"
+        }
+    ],
+    "Heath Chang": [],
+    "Travis Marks": [],
+    "Nadia Ali": [],
+    "Gisselle Brock": [],
+    "Julissa Bradford": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "12/22/2022"
+        }
+    ],
+    "Roman Moyer": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "09/09/2023"
+        }
+    ],
+    "Abbey Long": [],
+    "Alejandro Cantrell": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "09/14/2023"
+        }
+    ],
+    "Nadia Dominguez": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "05/20/2023"
+        },
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "07/26/2023"
+        }
+    ],
+    "Paxton Marsh": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "12/23/2022"
+        }
+    ],
+    "Hayden Gaines": [],
+    "Adelaide Moore": [],
+    "Nathanial Leonard": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "02/06/2023"
+        }
+    ],
+    "Yael Cummings": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "02/26/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "04/17/2023"
+        }
+    ],
+    "Liberty Miles": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/27/2023"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "07/08/2023"
+        }
+    ],
+    "Linda Romero": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "03/14/2023"
+        }
+    ],
+    "Kiersten Leon": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "05/22/2023"
+        }
+    ],
+    "Adan Salazar": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "01/23/2023"
+        }
+    ],
+    "Sierra Watkins": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expiring soon",
+            "expires_on": "10/03/2023"
+        }
+    ],
+    "Garrett Mcneil": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "09/10/2023"
+        }
+    ],
+    "Travis Bowers": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "05/07/2023"
+        }
+    ],
+    "Brennen Daniel": [],
+    "Cody Day": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "07/16/2023"
+        }
+    ],
+    "Kyson Orozco": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "05/01/2023"
+        }
+    ],
+    "Melody Mosley": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "01/06/2023"
+        }
+    ],
+    "Maddox Harding": [],
+    "Kaylynn Obrien": [],
+    "Emilia Gardner": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "02/11/2023"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "01/15/2023"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "09/07/2023"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expiring soon",
+            "expires_on": "10/29/2023"
+        }
+    ],
+    "Gabrielle Robbins": [],
+    "Jadiel Ball": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "08/28/2023"
+        }
+    ],
+    "Kate Berry": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired",
+            "expires_on": "04/20/2023"
+        }
+    ],
+    "Misael Wall": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "06/29/2023"
+        }
+    ],
+    "Yadiel Hogan": [],
+    "Brooklyn Bernard": [],
+    "Brynlee Walker": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "09/09/2023"
+        }
+    ],
+    "Bryan Cross": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "08/23/2023"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "04/21/2023"
+        }
+    ],
+    "Maximilian Humphrey": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "01/20/2023"
+        }
+    ],
+    "Devon Bush": [],
+    "Thaddeus Koch": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "07/13/2023"
+        }
+    ],
+    "Dakota Pierce": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "09/15/2023"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "06/16/2023"
+        }
+    ],
+    "Juliette Mcconnell": [],
+    "Jakobe Porter": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "02/25/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "05/31/2023"
+        },
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "01/09/2023"
+        }
+    ],
+    "Yael Savage": [],
+    "Caylee Hatfield": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "04/17/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "02/14/2023"
+        }
+    ],
+    "Seamus Duke": [],
+    "Reyna Cortez": [],
+    "Jaida Faulkner": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "01/23/2023"
+        }
+    ],
+    "Damon Gaines": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "07/03/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "02/10/2023"
+        }
+    ],
+    "Kaila Knapp": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "09/14/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "06/14/2023"
+        }
+    ],
+    "Kathy Quinn": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "02/10/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "09/06/2023"
+        }
+    ],
+    "Darian Bean": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "07/24/2023"
+        }
+    ],
+    "Patrick Jones": [],
+    "Javion Ayers": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expiring soon",
+            "expires_on": "10/17/2023"
+        }
+    ],
+    "Yahir Barnett": [],
+    "Eileen Holder": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "09/18/2023"
+        }
+    ],
+    "Alma Parks": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "03/17/2023"
+        }
+    ],
+    "Britney Hopkins": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "07/20/2023"
+        }
+    ],
+    "Kiersten Obrien": [],
+    "Amira Oneal": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "03/19/2023"
+        }
+    ],
+    "Kelly Munoz": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "05/06/2023"
+        }
+    ],
+    "Margaret Mccarthy": [],
+    "Maximo Bush": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expiring soon",
+            "expires_on": "10/21/2023"
+        }
+    ],
+    "Fernando Marks": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "01/14/2023"
+        }
+    ],
+    "Bailey Barrera": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "05/23/2023"
+        }
+    ],
+    "Brian Cline": [],
+    "Aditya Alvarez": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "04/19/2023"
+        }
+    ],
+    "Kamryn Bauer": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "04/15/2023"
+        }
+    ],
+    "Belinda Fowler": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "12/20/2022"
+        }
+    ],
+    "Toby Sullivan": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "02/22/2023"
+        }
+    ],
+    "Colton Whitaker": [],
+    "Matias Oconnell": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "08/14/2023"
+        }
+    ],
+    "Winston Norman": [],
+    "Laylah Hines": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "08/05/2023"
+        }
+    ],
+    "Blaze Joyce": [],
+    "Salvatore Mckay": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "02/06/2023"
+        }
+    ],
+    "Lucas Fowler": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "01/16/2023"
+        }
+    ],
+    "Gideon Sandoval": [],
+    "Amari Oconnor": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "12/14/2022"
+        }
+    ],
+    "Jaliyah Stark": [],
+    "Urijah Travis": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expiring soon",
+            "expires_on": "10/10/2023"
+        },
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "03/11/2023"
+        }
+    ],
+    "Lilliana Olsen": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "06/10/2023"
+        }
+    ],
+    "Lilyana Blackwell": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "02/07/2023"
+        }
+    ],
+    "Tamara Livingston": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expiring soon",
+            "expires_on": "10/06/2023"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "07/23/2023"
+        }
+    ],
+    "Kierra Grimes": [],
+    "Iris Aguilar": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "01/04/2023"
+        }
+    ],
+    "Summer Gallegos": [],
+    "Reginald Rogers": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "09/15/2023"
+        }
+    ],
+    "Aliya Bond": [],
+    "Elijah Marks": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "08/18/2023"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expiring soon",
+            "expires_on": "10/03/2023"
+        }
+    ],
+    "Juan Stafford": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expiring soon",
+            "expires_on": "10/11/2023"
+        },
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "03/24/2023"
+        }
+    ],
+    "Jazmin Reynolds": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "03/09/2023"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expiring soon",
+            "expires_on": "10/30/2023"
+        }
+    ],
+    "Mike Olson": [],
+    "Darien Oconnor": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expiring soon",
+            "expires_on": "10/17/2023"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "07/09/2023"
+        }
+    ],
+    "Cloe Briggs": [],
+    "Miah Burnett": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "01/28/2023"
+        }
+    ],
+    "Louis Burnett": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "05/31/2023"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "07/10/2023"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "05/05/2023"
+        }
+    ],
+    "Leslie Valencia": [],
+    "Gage Spence": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "03/04/2023"
+        }
+    ],
+    "Livia Hayes": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "07/17/2023"
+        },
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "12/21/2022"
+        }
+    ],
+    "Jamie Gay": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "08/09/2023"
+        }
+    ],
+    "Mara Holland": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "04/04/2023"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "12/14/2022"
+        }
+    ],
+    "Aliya Robles": [],
+    "Hadassah Hampton": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "03/12/2023"
+        }
+    ],
+    "Micheal Cannon": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "01/27/2023"
+        }
+    ],
+    "Leland Myers": [],
+    "Leandro Krause": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "06/30/2023"
+        }
+    ],
+    "Angelique Goodman": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "04/20/2023"
+        }
+    ],
+    "Abdiel Franco": [],
+    "Bridget Bray": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "06/18/2023"
+        }
+    ],
+    "Talia Jacobson": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "04/25/2023"
+        }
+    ],
+    "Soren Chaney": [],
+    "Gina Sexton": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "09/01/2023"
+        },
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "01/07/2023"
+        }
+    ],
+    "Curtis Curtis": [],
+    "August Archer": [],
+    "Kamila Mckenzie": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "05/04/2023"
+        }
+    ],
+    "Dayana Costa": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "09/13/2023"
+        }
+    ],
+    "Andreas Mcdonald": [],
+    "Joyce Gay": [],
+    "Denise Koch": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "09/11/2023"
+        }
+    ],
+    "Harley Cantrell": [],
+    "Livia Burch": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "04/14/2023"
+        },
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "07/26/2023"
+        }
+    ],
+    "Annika Snyder": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "01/08/2023"
+        }
+    ],
+    "Nyla Rose": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "02/15/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "01/27/2023"
+        }
+    ],
+    "Magdalena Hobbs": [],
+    "Elian Richmond": [
+        {
+            "training": "Medical Records",
+            "status": "expiring soon",
+            "expires_on": "10/30/2023"
+        }
+    ],
+    "Lance Cowan": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "03/02/2023"
+        }
+    ],
+    "Reese Raymond": [],
+    "Misael Irwin": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "05/08/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "06/03/2023"
+        }
+    ],
+    "Damien Harrell": [],
+    "Patience Rich": [],
+    "Callum Sawyer": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "05/21/2023"
+        }
+    ],
+    "Gemma Osborn": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/24/2023"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expiring soon",
+            "expires_on": "10/10/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "08/31/2023"
+        }
+    ],
+    "Valentina Nichols": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "06/26/2023"
+        }
+    ],
+    "Cassidy Rowe": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "08/08/2023"
+        }
+    ],
+    "Tristen Dean": [],
+    "Maritza Cervantes": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "12/31/2022"
+        }
+    ],
+    "Rolando Franco": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "07/18/2023"
+        }
+    ],
+    "Abraham Mendoza": [
+        {
+            "training": "Medical Records",
+            "status": "expiring soon",
+            "expires_on": "10/13/2023"
+        }
+    ],
+    "Paula Harper": [],
+    "Aliyah Duran": [],
+    "Mylee Villegas": [],
+    "Aiyana Stone": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "07/25/2023"
+        }
+    ],
+    "Adison Brewer": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "04/21/2023"
+        }
+    ],
+    "Brodie Foster": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "12/14/2022"
+        },
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "09/15/2023"
+        }
+    ],
+    "Conner Monroe": [],
+    "Makayla Gregory": [],
+    "Ann Knight": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "09/16/2023"
+        }
+    ],
+    "Holly Rosario": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "03/18/2023"
+        }
+    ],
+    "Nikhil Henderson": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "06/15/2023"
+        }
+    ],
+    "Skye Valenzuela": [],
+    "Reed Ramos": [],
+    "Arielle Dunn": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "04/02/2023"
+        }
+    ],
+    "Bruce Dunn": [],
+    "Julianna York": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/05/2023"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "02/12/2023"
+        }
+    ],
+    "Reginald Pope": [],
+    "Armani Tapia": [],
+    "Zackary Barajas": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "04/13/2023"
+        }
+    ],
+    "Hillary Tyler": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "05/11/2023"
+        }
+    ],
+    "Eleanor Cooley": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "05/01/2023"
+        }
+    ],
+    "Zavier Wiggins": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "05/25/2023"
+        }
+    ],
+    "Branson Cisneros": [],
+    "Maya Underwood": [],
+    "Karina Lowery": [],
+    "Finley Boyer": [],
+    "Brynn Marks": [],
+    "Norah Huber": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "01/25/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "08/26/2023"
+        }
+    ],
+    "Antoine Rhodes": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expiring soon",
+            "expires_on": "10/06/2023"
+        }
+    ],
+    "Francis Sexton": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "01/22/2023"
+        }
+    ],
+    "Skyla Grant": [],
+    "Audrina Eaton": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expiring soon",
+            "expires_on": "10/13/2023"
+        }
+    ],
+    "Jessie Odom": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "09/21/2023"
+        },
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "06/05/2023"
+        }
+    ],
+    "Tia Galloway": [],
+    "Bradyn Chavez": [],
+    "Bennett Townsend": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "07/09/2023"
+        }
+    ],
+    "Tatum Patrick": [],
+    "Denisse Velazquez": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "08/20/2023"
+        }
+    ],
+    "Jensen Brandt": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "09/21/2023"
+        }
+    ],
+    "Bruno Navarro": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expiring soon",
+            "expires_on": "10/08/2023"
+        }
+    ],
+    "Lyric Richard": [],
+    "Martha Robinson": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "02/09/2023"
+        }
+    ],
+    "Katelynn Powell": [],
+    "Larry Rowe": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "03/27/2023"
+        }
+    ],
+    "Regina Singleton": [],
+    "Sara Gilmore": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "09/22/2023"
+        }
+    ],
+    "Adrien Haley": [],
+    "Mercedes Page": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "03/27/2023"
+        }
+    ],
+    "Janiyah Norris": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "05/10/2023"
+        }
+    ],
+    "Brenna Kidd": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "02/19/2023"
+        }
+    ],
+    "Brisa Cowan": [],
+    "Humberto Huerta": [],
+    "Janae Collier": [],
+    "Rolando Mclean": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expiring soon",
+            "expires_on": "10/24/2023"
+        }
+    ],
+    "Rayan Valencia": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "12/30/2022"
+        }
+    ],
+    "Harmony Atkins": [],
+    "Damaris Hess": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "12/28/2022"
+        }
+    ],
+    "Trace Stevens": [],
+    "Kinsley Curtis": [],
+    "Chloe Vargas": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "09/23/2023"
+        }
+    ],
+    "Marvin Gibbs": [],
+    "Leland Nguyen": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "04/28/2023"
+        }
+    ],
+    "Yandel Shields": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expiring soon",
+            "expires_on": "10/19/2023"
+        }
+    ],
+    "Trent Bernard": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired",
+            "expires_on": "02/19/2023"
+        }
+    ],
+    "Alonzo Delacruz": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "12/14/2022"
+        }
+    ],
+    "Martin Dean": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired",
+            "expires_on": "04/16/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "03/11/2023"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expiring soon",
+            "expires_on": "10/15/2023"
+        }
+    ],
+    "Braylon Trevino": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "02/15/2023"
+        }
+    ],
+    "Ainsley Avila": [],
+    "Ethen Mathews": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/15/2023"
+        }
+    ],
+    "Adalynn Dunlap": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "02/13/2023"
+        }
+    ],
+    "Layne Bruce": [],
+    "Matthew Rojas": [],
+    "Kira Ramos": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "04/30/2023"
+        },
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "06/07/2023"
+        }
+    ],
+    "Carson Blackburn": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "08/02/2023"
+        }
+    ],
+    "Mario Wiggins": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "01/09/2023"
+        }
+    ],
+    "Alannah Booth": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expiring soon",
+            "expires_on": "10/10/2023"
+        },
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "12/25/2022"
+        }
+    ],
+    "Delilah Mills": [],
+    "Jimmy Potter": [],
+    "Malaki Frost": [],
+    "Kira Rich": [],
+    "Marlon Baker": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "01/21/2023"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "07/13/2023"
+        }
+    ],
+    "King Abbott": [],
+    "Jonathon Bradford": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expiring soon",
+            "expires_on": "10/18/2023"
+        },
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "01/08/2023"
+        }
+    ],
+    "Alexandra Schneider": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "03/27/2023"
+        },
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired",
+            "expires_on": "12/13/2022"
+        }
+    ],
+    "Rhys Gay": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "09/08/2023"
+        }
+    ],
+    "Madisyn Wiggins": [
+        {
+            "training": "Medical Records",
+            "status": "expired",
+            "expires_on": "02/16/2023"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "12/24/2022"
+        }
+    ],
+    "Phoenix Holden": [],
+    "Bruce West": [],
+    "Terrance Krause": [],
+    "Kaiden Patel": [],
+    "Helena Weiss": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired",
+            "expires_on": "08/25/2023"
+        }
+    ],
+    "Destinee Odonnell": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "09/23/2023"
+        }
+    ],
+    "Skylar Neal": [],
+    "Marquis Sandoval": [],
+    "Lawson Quinn": [],
+    "Turner Kelley": [],
+    "Angelo Rivers": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "06/15/2023"
+        }
+    ],
+    "Judith Gallagher": [],
+    "Elyse Frank": [],
+    "Roy Robbins": [],
+    "Dayanara Reynolds": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "08/26/2023"
+        }
+    ],
+    "Noe Boyle": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "07/09/2023"
+        }
+    ],
+    "Mia Pacheco": [],
+    "Charlee Acevedo": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "09/27/2023"
+        }
+    ],
+    "Albert Rogers": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "02/06/2023"
+        }
+    ],
+    "Steve Brown": [],
+    "Reynaldo Kidd": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired",
+            "expires_on": "09/22/2023"
+        }
+    ],
+    "Jean Preston": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "06/18/2023"
+        }
+    ],
+    "Samara Tran": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "06/18/2023"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expiring soon",
+            "expires_on": "10/26/2023"
+        }
+    ],
+    "Denzel Lane": [],
+    "Jerimiah Guerra": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "12/15/2022"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired",
+            "expires_on": "04/12/2023"
+        }
+    ],
+    "Andreas Hoover": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "12/14/2022"
+        }
+    ],
+    "Samantha Small": [],
+    "Maritza Ryan": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired",
+            "expires_on": "05/27/2023"
+        }
+    ],
+    "Jillian Gallegos": [],
+    "Jovan Strickland": [],
+    "Janiyah Vaughan": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "04/07/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "12/22/2022"
+        }
+    ],
+    "Jagger Hoffman": [],
+    "Veronica Mahoney": [],
+    "Rene Gardner": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "06/13/2023"
+        }
+    ],
+    "Tomas Burnett": [],
+    "Kaitlyn Orozco": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "04/18/2023"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired",
+            "expires_on": "01/12/2023"
+        }
+    ],
+    "Desiree Potts": [],
+    "Anastasia Mcknight": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "04/05/2023"
+        }
+    ],
+    "Erin Swanson": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "12/08/2022"
+        }
+    ],
+    "Ezra Powers": [
+        {
+            "training": "OHS Training",
+            "status": "expiring soon",
+            "expires_on": "10/17/2023"
+        }
+    ],
+    "Kamron Jenkins": [],
+    "Teagan Nielsen": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "08/13/2023"
+        }
+    ],
+    "Harley Booker": [],
+    "Nataly Waters": [],
+    "Jazmine Alvarado": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired",
+            "expires_on": "04/07/2023"
+        }
+    ],
+    "Molly Patton": [],
+    "Lance Mcfarland": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "12/30/2022"
+        }
+    ],
+    "Randall Marsh": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "09/29/2023"
+        }
+    ],
+    "Raelynn Alexander": [],
+    "Francisco Orozco": [],
+    "Hamza Figueroa": [],
+    "Jadon Villarreal": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "08/19/2023"
+        }
+    ],
+    "Dennis Dunn": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "02/21/2023"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired",
+            "expires_on": "09/07/2023"
+        }
+    ],
+    "Alicia Mays": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "07/25/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "01/22/2023"
+        }
+    ],
+    "Micah Barrera": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "08/08/2023"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "07/20/2023"
+        }
+    ],
+    "Tiara Barron": [],
+    "Marisol Cooper": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "05/10/2023"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "05/23/2023"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired",
+            "expires_on": "04/13/2023"
+        }
+    ],
+    "Damari Short": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "08/22/2023"
+        }
+    ],
+    "Joseph Sanchez": [],
+    "Easton Howard": [],
+    "Crystal Middleton": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "12/17/2022"
+        }
+    ],
+    "Freddy Bullock": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "09/22/2023"
+        }
+    ],
+    "Finley Thornton": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "04/12/2023"
+        }
+    ],
+    "Mark Griffith": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired",
+            "expires_on": "05/06/2023"
+        }
+    ],
+    "Wendy Bradshaw": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "02/28/2023"
+        }
+    ],
+    "Jaylen Vega": [],
+    "Eve Sullivan": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "02/17/2023"
+        }
+    ],
+    "Julien Frey": [],
+    "Jaden Wolfe": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "09/19/2023"
+        }
+    ],
+    "Kailey Montgomery": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired",
+            "expires_on": "01/02/2023"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "04/19/2023"
+        }
+    ],
+    "Ariana Lowery": [],
+    "Erik Stafford": [],
+    "Misael Sawyer": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired",
+            "expires_on": "01/20/2023"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "04/20/2023"
+        }
+    ],
+    "Jadyn Cuevas": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "07/14/2023"
+        }
+    ],
+    "Cailyn Morrow": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "08/20/2023"
+        }
+    ],
+    "Lia Mosley": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired",
+            "expires_on": "06/09/2023"
+        }
+    ],
+    "Adrienne Yates": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "07/07/2023"
+        }
+    ],
+    "Nayeli Mcfarland": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expiring soon",
+            "expires_on": "10/08/2023"
+        }
+    ],
+    "Kaitlin Murray": [],
+    "Clarence Moran": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "01/10/2023"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired",
+            "expires_on": "07/13/2023"
+        }
+    ],
+    "Audrina Valencia": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired",
+            "expires_on": "08/30/2023"
+        }
+    ],
+    "Boston Walter": [],
+    "Kamron Tanner": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired",
+            "expires_on": "04/18/2023"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired",
+            "expires_on": "07/06/2023"
+        }
+    ],
+    "Arnav Meza": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expiring soon",
+            "expires_on": "10/03/2023"
+        }
+    ],
+    "Anahi Golden": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired",
+            "expires_on": "02/02/2023"
+        }
+    ],
+    "Jaron Estes": [],
+    "Julien Terrell": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired",
+            "expires_on": "03/30/2023"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired",
+            "expires_on": "02/23/2023"
+        }
+    ],
+    "Ricardo Barber": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expiring soon",
+            "expires_on": "10/12/2023"
+        }
+    ],
+    "John Montes": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired",
+            "expires_on": "09/04/2023"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired",
+            "expires_on": "03/15/2023"
+        }
+    ],
+    "Kasey Wolfe": [],
+    "Hanna Huber": [],
+    "Anabella Wallace": [],
+    "Allie Bright": [],
+    "Antwan Villanueva": [],
+    "Camden Ho": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired",
+            "expires_on": "08/27/2023"
+        }
+    ],
+    "Shaylee Ware": [],
+    "Jayda Roman": [],
+    "America Franco": [],
+    "Jadon Harrell": [
+        {
+            "training": "OHS Training",
+            "status": "expired",
+            "expires_on": "03/14/2023"
+        }
+    ]
+}
